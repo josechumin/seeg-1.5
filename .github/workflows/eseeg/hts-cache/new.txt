@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+18:34:58	10870/10870	--FM--	200	added ('OK')	text/html		file:///C:/Users/Admin/Downloads/1sZRlGgq55dVFeVGX.html	C:/Users/Admin/Desktop/seeg%20guatemala/Nueva%20carpeta/eseeg/file/C_/Users/Admin/Downloads/1sZRlGgq55dVFeVGX.html	(from )
+18:34:59	95778/95778	---M-Z	200	added ('OK')	application/javascript	etag:%22610c58cf-6c56%22	https://cdnjs.cloudflare.com/ajax/libs/jszip/3.7.1/jszip.min.js	C:/Users/Admin/Desktop/seeg%20guatemala/Nueva%20carpeta/eseeg/cdnjs.cloudflare.com/ajax/libs/jszip/3.7.1/jszip.min.js	(from )
